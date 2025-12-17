@@ -39,3 +39,10 @@ pip install -r requirements.txt
 ```
 python main.py sample_input/input1.txt
 ```
+
+## TODO :
+- Add test cases for current development
+- Add Support for multiple stations & destinations.
+- Add Persistent data-store
+- Fare calculation logic needs to be dynamic.
+- Containerization
